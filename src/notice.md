@@ -14,7 +14,12 @@
 
 1. Time complexity is O(logn) by using binary search
 
+##### 53
+
+1. Dynamic Programming is the most important part of this problems.
+2. Divide and Conquer is the efficient way to improve the complexity from o(n) to o(logn)
+
 ###### 389
 
-- 1. Use ASCII to solve the problem
+1. Use ASCII to solve the problem
 
