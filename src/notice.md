@@ -1,3 +1,7 @@
+###### 2
+1. overflow for int type
+2. l1 = l1==null?l1:l1.next;
+3. return result.next;
 ###### 26
 
 1. To get the length of the array, we use array.length, while for string, we use `str.length()`
