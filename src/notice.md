@@ -2,6 +2,11 @@
 1. overflow for int type
 2. l1 = l1==null?l1:l1.next;
 3. return result.next;
+
+###### 3
+1. Refer [website](https://leetcode.com/problems/longest-substring-without-repeating-characters/solution/) to learn.
+2. sliding window is the key point to improve the performance.
+
 ###### 26
 
 1. To get the length of the array, we use array.length, while for string, we use `str.length()`
