@@ -28,6 +28,19 @@
 1. Dynamic Programming is the most important part of this problems.
 2. Divide and Conquer is the efficient way to improve the complexity from o(n) to o(logn)
 
+##### 70
+
+As we can see this problem can be broken into subproblems, and it contains the optimal substructure property i.e. its optimal solution can be constructed efficiently from optimal solutions of its subproblems, we can use dynamic programming to solve this problem.
+One can reach i step in one of the two ways:
+
+Taking a single step from (i-1) step.
+
+Taking a step of 22 from (i-2) step.
+
+So, the total number of ways to reach i step:
+
+dp[i]=dp[i-1]+dp[i-2]
+
 ###### 389
 
 1. Use ASCII to solve the problem
