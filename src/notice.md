@@ -41,6 +41,9 @@ So, the total number of ways to reach i step:
 
 dp[i]=dp[i-1]+dp[i-2]
 
+##### 141
+1. Use two pointers, a fast one and a slow one (general solution for cycle)
+
 ###### 389
 
 1. Use ASCII to solve the problem
