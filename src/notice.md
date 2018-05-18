@@ -41,6 +41,11 @@ So, the total number of ways to reach i step:
 
 dp[i]=dp[i-1]+dp[i-2]
 
+#####110
+1. Judge empty tree
+2. Judge the height of left and right is over 1
+3. Judge left sub tree and right sub tree is balanced
+
 ##### 141
 1. Use two pointers, a fast one and a slow one (general solution for cycle)
 
