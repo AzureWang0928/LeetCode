@@ -10,8 +10,10 @@
 ###### 26
 
 1. To get the length of the array, we use array.length, while for string, we use `str.length()`
-
 1. Use a count var to store the length
+
+###### 27
+1. judge not equal and fill them into the original array instead of judging the equal elements
 
 ###### 28
 
