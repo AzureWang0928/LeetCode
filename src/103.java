@@ -1,3 +1,5 @@
+//Pay attention to the exit entrance;
+//Pay attention to the sequence (left/right)
 /**
  * Definition for a binary tree node.
  * public class TreeNode {
